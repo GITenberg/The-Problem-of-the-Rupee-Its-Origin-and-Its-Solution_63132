@@ -1,5 +1,8 @@
 _repo: The-Problem-of-the-Rupee-Its-Origin-and-Its-Solution_63132
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ambedkar, B. R. (Bhimrao Ramji)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52301
     wikipedia: https://en.wikipedia.org/wiki/B._R._Ambedkar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63132#The-Problem-of-the-Rupee-Its-Origin-and-Its-Solution
 gutenberg_issued: '2020-09-05'
 gutenberg_type: Text
 identifiers:
