@@ -1,0 +1,27 @@
+_repo: The-Problem-of-the-Rupee-Its-Origin-and-Its-Solution_63132
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ambedkar, B. R. (Bhimrao Ramji)
+    alias: Ambedkar, Bhimrao Ramji
+    birthdate: 1891
+    deathdate: 1956
+    gutenberg_agent_id: '52301'
+    url: http://www.gutenberg.org/2009/agents/52301
+    wikipedia: https://en.wikipedia.org/wiki/B._R._Ambedkar
+description: ''
+gutenberg_issued: '2020-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63132'
+  lccn: '24009350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Currency question -- India'
+- !lcc 'HG'
+- GITenberg
+title: The Problem of the Rupee, Its Origin and Its Solution
+url: http://www.gutenberg.org/ebooks/63132
